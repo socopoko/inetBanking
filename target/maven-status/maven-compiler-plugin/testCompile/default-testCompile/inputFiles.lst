@@ -1,0 +1,9 @@
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/utilities/ReadConfig.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/testCases/TC_LoginDataDrivenTest_002.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/pageObjects/LoginPage.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/testCases/TC_AddCustomerTest_003.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/testCases/BaseClass.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/utilities/Reporting.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/pageObjects/AddCustomerPage.java
+/home/socopoko/Repositories/dxc-training/inetBankingv1/src/test/java/com/inetbanking/utilities/XLUtils.java
